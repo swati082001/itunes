@@ -92,3 +92,36 @@ a{
     bottom: 820px;
 
 }
+.part-five{
+    color:black ;
+    background-color:white;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 800px;
+    font-size: 20px;
+    text-align: justify;
+}
+h1{
+    text-align: center;
+}
+#fruits{
+    float: left;
+    width: 360px;
+    height: 170px;
+}
+.image-two{
+    background-image: url(/starry-sky.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+  
+    position: relative;
+    bottom: 760px;
+    height: 500px;
+
+}
+.part-six{
+    padding: 30px;
+    margin: 10px;
+}
